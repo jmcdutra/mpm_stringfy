@@ -1,0 +1,13 @@
+{
+    "name": "stringfy",
+    "version": "1.0.0",
+    "repository": "https://github.com/jmcdutra/mpm_stringfy",
+    "description": "",
+    "main": "index.lua",
+    "author": "Dutra",
+    "license": "ISC",
+    "files": [
+        {"name": "index.lua", "type": "shared"}
+    ],
+    "dependencies": {}
+}
